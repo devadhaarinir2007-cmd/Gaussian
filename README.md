@@ -9,8 +9,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1.Read the order of the matrix and input the augmented matrix coefficients.
+
 2.Perform Gaussian elimination row operations to convert the matrix into upper triangular form.
+
 3.Apply backward substitution to compute the values of unknown variables.
+
 4.Print the obtained solutions of the system of equations.
 
 ## Program:
